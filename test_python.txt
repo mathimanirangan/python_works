@@ -1,0 +1,6 @@
+string_name = "geeksforgeeks"
+  
+# Iterate over the string
+for element in string_name:
+    print(element, end=' ')
+print("\n")
